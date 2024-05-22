@@ -34,10 +34,10 @@ Transparency: RAG can sometimes reveal the sources of the information used by th
 
 ## Technologies
 
-Streamlit 
-Gemma      
-LangChain  
-GroqAPI   
+1. Streamlit
+2. Gemma
+3. LangChain
+4. GroqAPI   
 
 ## Requirements
 
